@@ -1,6 +1,6 @@
 # Coding blog
 
-My first project in Laravel - blogging website (in the assumption of sharing what I've learnt in web development). 
+My first project in Laravel - blogging website (in the assumption of sharing what I've learned in web development). 
 
 
 ![Admin](https://user-images.githubusercontent.com/23345906/115872612-4b1e3600-a442-11eb-9c67-b12165740e3f.png)
